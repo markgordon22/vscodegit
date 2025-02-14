@@ -63,7 +63,7 @@ $(function () {
     .setPin('#friend')
     .addTo(controller)
 
-  // wedwedewdwedwedwedwedwedwedwedwedwedwedwedwedwedwedwedwedwedwedwdwdwed
+  // updatescript
 
   let parachuteTween = new TimelineMax()
 
